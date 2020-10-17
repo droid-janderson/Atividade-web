@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+.cabecalho {
+  width: 90%;
+  height: 100px;
+  margin: 0 auto 5%;
+  background: darkmagenta;
+}
+
+.container {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+  height: 500px;
+}
+
+.div1,
+.div2 {
+  margin-right: 5%;
+}
+
+.div1 {
+  width: 50%;
+  background: forestgreen;
+}
+
+.div2,
+.div3 {
+  width: 20%;
+  background: brown;
+}
+
+
+
+
